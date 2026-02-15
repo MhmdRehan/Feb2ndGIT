@@ -1,13 +1,12 @@
 package org.sample;
 
 public class Sample {
-	
+
 	public static void main(String[] args) {
-		
+
+		System.out.println("Hello Morning");
 		System.out.println("Im done in afernoon");
-		
-		
-		
+
 	}
 
 }
